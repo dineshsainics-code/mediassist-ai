@@ -1,0 +1,6 @@
+{
+  "name": "MediAssist AI",
+  "description": "Smart Hospital Patient Assistance & Management System for exploring departments and doctors, booking and tracking appointments, bilingual AI patient guidance, and hospital operations administration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
